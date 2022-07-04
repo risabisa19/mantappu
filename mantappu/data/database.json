@@ -1,0 +1,132 @@
+{
+    "header":
+        { 
+            "title":"Mantappu Corp",
+            "navbar": [
+              {
+               "title":"About",
+               "link":"#about"  
+              },
+              {
+               "title":"Service",
+               "link":"#services"
+              },
+              {
+                  "title":"Portofolio",
+                  "link":"#portofolio"
+              },
+              {
+                  "title":"Contact",
+                  "link":"#contact"
+              }
+            ]
+          },    
+    "body":[
+        {
+            "banner" : 
+                {
+                    "title":"GET TO KNOW US",
+                    "description":"Mantappu Corp. is a proud Indonesian talent management company and has been building international influencers across the globe since 2018. With 10+ managed creators, with names like Jerome Polin, Jang Hansol, Leonardo Edwin, and more, Mantappu Corp. aspired to serve the best quality KOL for digital marketing solutions.",
+                    "btn" : [
+                        {
+                            "text":"FIND OUT MORE",
+                            "link":"#about"
+                        }
+                    ],
+                    "img":"/assets/img/backgroun.png"
+                }
+        },
+        {
+           "kedua" :
+            {
+                "title":"We've got what you need!",
+                "description":"We have partnered with other companies and individuals from multiple industries to ensure that our services are not limited but growing. By helping brands navigate rapidly changing markets and pushing emerging businesses to be heard, we aim to create a solid digital communication that matters.",
+                "btn":[
+                    {
+                        "text":"GET STARTED",
+                        "link":"#services"
+                    }
+                ]
+            }
+        },
+        {
+            "service":[
+                {
+                    "title":"At Your Service",
+                    "service":[
+                        {
+                            "icons":"bi-gem fs-1 text-primary",
+                            "title":"Sturdy Themes",
+                            "description":"Our themes are updated regularly to keep them bug free!"
+                        },
+                        {
+                            "icons":"bi-laptop fs-1 text-primary",
+                            "title":"Up to Date",
+                            "description":"All dependencies are kept current to keep things fresh."
+                        },
+                        {
+                            "icons":"bi-globe fs-1 text-primary",
+                            "title":"Ready to Publish",
+                            "description":"You can use this design as is, or you can make changes!"
+                        },
+                        {
+                            "icons":"bi-heart fs-1 text-primary",
+                            "title":"Made with Love",
+                            "description":"Is it really open source if it's not made with love?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "portofolio":[
+                {
+                    "title":"TALENT",
+                    "name":"Jerome Polin",
+                    "img":"/assets/img/portfolio/thumbnails/1.jfif"
+                },
+                {
+                    "title":"TALENT",
+                    "name":"Hitomi",
+                    "img":"/assets/img/portfolio/thumbnails/2.jfif"
+                },
+                {
+                    "title":"TALENT",
+                    "name":"Otsuke",
+                    "img":"/assets/img/portfolio/thumbnails/3.jfif"
+                },
+                {
+                    "title":"TALENT",
+                    "name":"Tomo",
+                    "img":"/assets/img/portfolio/thumbnails/4.jfif"
+                },
+                {
+                    "title":"TALENT",
+                    "name":"Yusuke",
+                    "img":"/assets/img/portfolio/thumbnails/5.jfif"
+                },
+                {
+                    "title":"TALENT",
+                    "name":"Hansol",
+                    "img":"/assets/img/portfolio/thumbnails/6.jfif"
+                }
+            ]
+        },
+        {
+            "follow":[
+                {
+                    "title":"for your digital marketing needs.",
+                    "btn":[
+                        {
+                            "teks":"FOLLOW NOW!",
+                            "link":"https://www.mantappu.com/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "footer":"Company Mantappu Risa"
+        }
+    ]
+}
